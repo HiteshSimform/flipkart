@@ -1,0 +1,16 @@
+.nav-bar{
+    background-color:#2874f0;
+    height: 40px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.imagelogo{
+    justify-content: flex-end;
+    min-width: 137px;
+}
+
+#logo{
+    height: 40px;
+    width: 100px;
+}
