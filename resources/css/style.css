@@ -133,6 +133,7 @@ body{
     gap: 20px;
     margin: 25px auto;
     width: 90%;
+    /* width: 100%; */
 }
 
 .product-section-1 {
@@ -199,6 +200,14 @@ body{
     height: 250px;
     width: 300px;
     padding: 0px 5px;
+}
+
+.deal-text{
+    text-align: center; 
+    color: green;
+}
+.deal-text-o{
+    text-align: center;
 }
 
 
