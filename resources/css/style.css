@@ -4,8 +4,9 @@
     box-sizing: border-box;
 }
 body{
-    /* background-color: #EBE8E8; */
-    background-color: #000000;
+    /* background-color: #b1b1b1; */
+    background-color: #c7c7c7;
+    /* background-color: #000000; */
 }
 
 .cont{
@@ -131,7 +132,7 @@ body{
     justify-items: center;
     gap: 20px;
     margin: 25px auto;
-    width: auto;
+    width: 90%;
 }
 
 .product-section-1 {
@@ -198,6 +199,16 @@ body{
     height: 250px;
     width: 300px;
     padding: 0px 5px;
+}
+
+
+.book-music{
+    background-color: #fff;
+    display: flex;
+    justify-items: center;
+    gap: 20px;
+    margin: 25px auto;
+    width: 90%;
 }
 
  
